@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 464.05 545.47">
+	<defs>
+		<style>.cls-1{opacity:0.4;fill:url(#linear-gradient);}.cls-2{fill:#b1c2e8;}.cls-3{fill:#1a1344;}.cls-4{fill:#3c3b4c;}</style>
+		<linearGradient id="linear-gradient" x1="232.18" y1="598.99" x2="218.43" y2="-40.76" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fff" stop-opacity="0.7" />
+			<stop offset="1" stop-color="#434568" />
+		</linearGradient>
+	</defs>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<polygon class="cls-1" points="230.64 0 150.58 527.02 310.69 527.02 230.64 0" />
+			<ellipse class="cls-2" cx="230.43" cy="528.21" rx="79.85" ry="17.26" />
+			<circle class="cls-3" cx="231.67" cy="356.75" r="12.85" />
+			<path class="cls-3" d="M251.81,438.39H211.53V386.7c0-7,4.55-12.66,10.15-12.66h20c5.61,0,10.15,5.67,10.15,12.66Z" />
+			<path class="cls-3" d="M192.26,372.33h10.65a0,0,0,0,1,0,0v55.38a5.33,5.33,0,0,1-5.33,5.33h0a5.33,5.33,0,0,1-5.33-5.33V372.33A0,0,0,0,1,192.26,372.33Z" transform="translate(342.61 -21.77) rotate(45)" />
+			<path class="cls-3" d="M266.46,372.33h0a5.33,5.33,0,0,1,5.33,5.33V433a0,0,0,0,1,0,0H261.13a0,0,0,0,1,0,0V377.66A5.33,5.33,0,0,1,266.46,372.33Z" transform="translate(739.62 499.01) rotate(135)" />
+			<path class="cls-3" d="M244.28,522.51h0a7.53,7.53,0,0,1-7.53-7.53l-4.24-105.93h19.3V515A7.53,7.53,0,0,1,244.28,522.51Z" />
+			<path class="cls-3" d="M219.07,522.51h0A7.53,7.53,0,0,0,226.6,515l4.24-105.93H211.53V515A7.54,7.54,0,0,0,219.07,522.51Z" />
+			<circle class="cls-4" cx="347.15" cy="373.15" r="11.58" />
+			<path class="cls-4" d="M365.3,446.71H329V400.13c0-6.3,4.09-11.4,9.14-11.4h18c5.05,0,9.15,5.1,9.15,11.4Z" />
+			<rect class="cls-4" x="324.2" y="388.36" width="9.6" height="54.71" rx="4.8" transform="translate(110.86 -67.48) rotate(14.06)" />
+			<rect class="cls-4" x="360.01" y="388.36" width="9.6" height="54.71" rx="4.8" transform="translate(819.69 730.33) rotate(165.94)" />
+			<path class="cls-4" d="M358.51,522.51h0a6.79,6.79,0,0,1-6.79-6.79l-3.82-95.45h17.4v95.45A6.79,6.79,0,0,1,358.51,522.51Z" />
+			<path class="cls-4" d="M335.79,522.51h0a6.79,6.79,0,0,0,6.79-6.79l3.81-95.45H329v95.45A6.79,6.79,0,0,0,335.79,522.51Z" />
+			<circle class="cls-4" cx="117.38" cy="373.15" r="11.58" />
+			<path class="cls-4" d="M135.53,446.71H99.23V400.13c0-6.3,4.1-11.4,9.15-11.4h18c5.05,0,9.15,5.1,9.15,11.4Z" />
+			<rect class="cls-4" x="94.43" y="388.36" width="9.6" height="54.71" rx="4.8" transform="translate(103.98 -11.65) rotate(14.06)" />
+			<rect class="cls-4" x="130.24" y="388.36" width="9.6" height="54.71" rx="4.8" transform="translate(367.03 786.16) rotate(165.94)" />
+			<path class="cls-4" d="M128.74,522.51h0a6.79,6.79,0,0,1-6.79-6.79l-3.82-95.45h17.4v95.45A6.79,6.79,0,0,1,128.74,522.51Z" />
+			<path class="cls-4" d="M106,522.51h0a6.79,6.79,0,0,0,6.79-6.79l3.82-95.45H99.23v95.45A6.79,6.79,0,0,0,106,522.51Z" />
+			<circle class="cls-4" cx="26.22" cy="384.73" r="10.68" />
+			<path class="cls-4" d="M43,452.59H9.48v-43c0-5.81,3.78-10.52,8.44-10.52H34.53c4.66,0,8.43,4.71,8.43,10.52Z" />
+			<rect class="cls-4" x="5.06" y="398.76" width="8.85" height="50.46" rx="4.43" transform="translate(103.3 10.4) rotate(14.06)" />
+			<rect class="cls-4" x="38.09" y="398.76" width="8.85" height="50.46" rx="4.43" transform="translate(186.77 824.95) rotate(165.94)" />
+			<path class="cls-4" d="M36.7,522.51h0a6.26,6.26,0,0,1-6.26-6.26L26.92,428.2H43v88.05A6.26,6.26,0,0,1,36.7,522.51Z" />
+			<path class="cls-4" d="M15.74,522.51h0A6.27,6.27,0,0,0,22,516.25l3.52-88.05h-16v88.05A6.26,6.26,0,0,0,15.74,522.51Z" />
+			<circle class="cls-4" cx="438.27" cy="384.73" r="10.68" />
+			<path class="cls-4" d="M455,452.59H421.53v-43c0-5.81,3.78-10.52,8.44-10.52h16.61c4.66,0,8.43,4.71,8.43,10.52Z" />
+			<rect class="cls-4" x="417.11" y="398.76" width="8.85" height="50.46" rx="4.43" transform="translate(115.65 -89.71) rotate(14.06)" />
+			<rect class="cls-4" x="450.14" y="398.76" width="8.85" height="50.46" rx="4.43" transform="translate(998.52 724.84) rotate(165.94)" />
+			<path class="cls-4" d="M448.75,522.51h0a6.26,6.26,0,0,1-6.26-6.26L439,428.2h16v88.05A6.26,6.26,0,0,1,448.75,522.51Z" />
+			<path class="cls-4" d="M427.8,522.51h0a6.26,6.26,0,0,0,6.26-6.26l3.52-88.05H421.53v88.05A6.27,6.27,0,0,0,427.8,522.51Z" />
+		</g>
+	</g>
+</svg>
